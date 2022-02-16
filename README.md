@@ -1,0 +1,2 @@
+# Newcord-REBORN
+Newcord theme.
